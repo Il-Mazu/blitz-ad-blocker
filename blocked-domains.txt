@@ -1,0 +1,41 @@
+# Ad delivery domains. Each entry also blocks its subdomains, only in Blitz.
+# This is a starter list, not a captured inventory of your current ads.
+# Add plain domains, one per line; no URLs, paths, or wildcards.
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+googletagservices.com
+adnxs.com
+adsrvr.org
+amazon-adsystem.com
+rubiconproject.com
+pubmatic.com
+openx.net
+casalemedia.com
+criteo.com
+criteo.net
+smartadserver.com
+adform.net
+33across.com
+sharethrough.com
+triplelift.com
+yieldmo.com
+yieldlab.net
+lijit.com
+sovrn.com
+indexww.com
+contextweb.com
+undertone.com
+media.net
+adsafeprotected.com
+doubleverify.com
+moatads.com
+aniview.com
+primis.tech
+sekindo.com
+playwire.com
+intergi.com
+venatusmedia.com
+venatus.com
+nitropay.com
+btloader.com
