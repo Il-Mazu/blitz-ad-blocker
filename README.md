@@ -1,6 +1,6 @@
-![Blitz Ad Blocker — reversible Windows ad filtering](assets/banner.svg)
+![Blitz Ad Blocker — Ad blocking for Blitz.](assets/banner-basic.svg)
 
-# A quieter Blitz, one launcher away
+# Blitz Ad Blocker
 
 **Windows · PowerShell 5.1+ · Existing Blitz installation**
 
