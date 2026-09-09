@@ -1,4 +1,14 @@
-# Blitz Ad Blocker
+![Blitz Ad Blocker — reversible Windows ad filtering](assets/banner.svg)
+
+# A quieter Blitz, one launcher away
+
+**Windows · PowerShell 5.1+ · Existing Blitz installation**
+
+| Launch | Filter | Undo |
+| --- | --- | --- |
+| Quit Blitz, then open `Blitz Ad Blocker.cmd` | Block listed ad domains and hide known ad panels | Quit and use the normal Blitz shortcut |
+
+## Overview
 
 A reversible Windows launcher for the installed Blitz app. No installation or administrator rights are needed. Keep these files together.
 
