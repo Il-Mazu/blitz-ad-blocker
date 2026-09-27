@@ -1,16 +1,6 @@
-![Blitz Ad Blocker — Ad blocking for Blitz.](assets/banner-basic.svg)
-
 # Blitz Ad Blocker
 
-**Windows · PowerShell 5.1+ · Existing Blitz installation**
-
-| Launch | Filter | Undo |
-| --- | --- | --- |
-| Quit Blitz, then open `Blitz Ad Blocker.cmd` | Block listed ad domains and hide known ad panels | Quit and use the normal Blitz shortcut |
-
-## Overview
-
-A reversible Windows launcher for the installed Blitz app. No installation or administrator rights are needed. Keep these files together.
+A Windows launcher that filters ads in an existing Blitz installation. It blocks listed ad domains and hides ad panels. Start Blitz normally to turn the filtering off.
 
 Requires Windows, Windows PowerShell 5.1 or later, and an existing Blitz installation. Download this repository using **Code → Download ZIP**, extract it, then follow the steps below. This is an independent project and is not affiliated with Blitz or Riot Games.
 
